@@ -1,0 +1,8 @@
+date()
+echo(Good so far.)
+        echo   (   \ 1   <    2 * 3 + 12301  &\&    44    >   5   )    
+echo(-e 1\)  dogs\\n2\) cats)
+sync()
+goofy (-e supercali\\n\\t\(fragilistic\)\\n\\t\\texpialidocious)
+date(+%F\ %T)
+echo(0001010011000001)
